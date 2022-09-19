@@ -1,0 +1,5 @@
+apiVersion: v2
+dependencies:
+- name: debug-bundle-as-dependency-1
+  repository: "oci://ghcr.io/distorhead"
+  version: "0.1.0"

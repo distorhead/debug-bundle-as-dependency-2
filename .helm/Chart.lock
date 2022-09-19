@@ -1,0 +1,6 @@
+dependencies:
+- name: debug-bundle-as-dependency-1
+  repository: oci://ghcr.io/distorhead
+  version: 0.1.0
+digest: sha256:6e3162a85a37130bee5269552cc3bc85a76b84e253cc3ebf514cd5408844abcc
+generated: "2022-09-19T11:47:52.559170203+03:00"
